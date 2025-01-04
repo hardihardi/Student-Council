@@ -8,10 +8,10 @@
 ### Cara Install
 
 1. Clone atau download source code
-    - Para terminal, clone repo `git clone git@github.com:upi20/karmapack.git`
-    - atau `git clone https://github.com/upi20/karmapack.git`
-    - Jika tidak menggunakan Git, silakan **Download Zip** dan *extract* pada direktori web server (misal: xampp/htdocs)
-2. `cd karmapack`
+    - Para terminal, clone repo `git@github.com:hardihardi/Student-Council.git`
+    - atau `git clone https://github.com/hardihardi/Student-Council.git`
+    - Jika tidak menggunakan Git, silakan **Download Zip** dan *extract* pada direktori web server (misal: laragon/www atau xampp/htdocs)
+2. `cd Student Council`
 3. `composer install`
 4. `cp .env.example .env`
     - Jika tidak menggunakan Git, bisa rename file `.env.example` menjadi `.env`
